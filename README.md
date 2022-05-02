@@ -1,2 +1,2 @@
 # JavaScript
-Javascript codes that were taken from W3Schools or are custom
+Some custom Javascript codes.
